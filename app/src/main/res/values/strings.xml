@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BotomExample</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="title_list">Lista</string>
+    <string name="title_word">word</string>
+</resources>

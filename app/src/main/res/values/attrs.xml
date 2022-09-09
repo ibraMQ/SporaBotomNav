@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <attr name="shape" format="string" />
+        <attr name="colorShape" format="color"/>
+        <attr name="text" format="string"/>
+    </declare-styleable>
+    <declare-styleable name="SwitchView">
+        <attr name="startValue" format="boolean" />
+    </declare-styleable>
+</resources>
